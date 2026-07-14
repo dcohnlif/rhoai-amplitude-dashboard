@@ -1,0 +1,10 @@
+# Manual Amplitude org_name to internal customer_id mapping.
+# Used when automatic name normalization fails to match.
+#
+# Add entries as needed when running the report. The key is the exact
+# org_name as it appears in Amplitude, the value is your internal ID.
+#
+# Example:
+#   "ACME CORPORATION": "acme_corp"
+#   "International Business Machines Corporation": "ibm"
+mappings: {}

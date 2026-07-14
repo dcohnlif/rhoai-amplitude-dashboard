@@ -1,0 +1,19 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Generated reports
+*.html
+
+# Data (generated at runtime, may contain customer names)
+data/amplitude/historical_backfill.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store

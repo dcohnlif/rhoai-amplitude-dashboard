@@ -1,0 +1,11 @@
+# Amplitude org_names to exclude from reports.
+# These are individual accounts (not customer organizations) whose
+# clusters are registered to a personal name in OCM.
+#
+# Add entries as you find them — names that appear in Amplitude
+# but are individual developers, not real customers.
+#
+# Example:
+#   - "John Doe"
+#   - "Jane Smith"
+blocklist: []
